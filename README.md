@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 <div markdown="1">
  바바박
 </div>
-</details>
+</details> 감사합니다 
+
+<span style="color:red"> *some emphasized markdown text*</span>

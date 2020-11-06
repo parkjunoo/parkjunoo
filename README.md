@@ -6,6 +6,12 @@
 **parkjunoo/parkjunoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 </div>
+
+<div align=left>
+  
+감사합니다 
+
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

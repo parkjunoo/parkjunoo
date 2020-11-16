@@ -7,12 +7,17 @@
 - FrontEnd
 - Android
 
-# Projects
+# Language.
+- JAVA
+- KOTLIN
+- JAVASCRIPT
+- HTML/CSS
 
-- Web <br/>
+# Projects.
+### - Web <br/>
 Da-da-ik-sun [https://github.com/parkjunoo/the-more-the-better]
-- Android <br/>
+### - Android <br/>
 Bbokkibbokki [https://github.com/parkjunoo/bbokkibbokki] <br/>
 Sensitive-Eyes [https://github.com/parkjunoo/Sensitive-Eyes]
-- AI
+### - AI
 Airmusician [https://github.com/ansgml9884/air-musician]

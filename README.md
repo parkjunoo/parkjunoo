@@ -5,21 +5,7 @@
 | | |
 # Areas of interest.
 ### FrontEnd
-- Vue.js 
-- CSS/HTML
-### BackEnd
-- Spring/SpringBoot
-- JPA
-### Android
-- Room
-- SQLight
-- NDK/OpenCv
-
-# Language.
-- JAVA
-- KOTLIN
-- JAVASCRIPT
-- HTML/CSS
+## work in pet-friends
 
 # Projects.
 ### - Web <br/>

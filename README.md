@@ -11,6 +11,7 @@
 # Projects.
 ### - Web <br/>
 Da-da-ik-sun [https://github.com/parkjunoo/the-more-the-better]
+vanilla-typescript-stiky-todolist []
 ### - Android <br/>
 Bbokkibbokki [https://github.com/parkjunoo/bbokkibbokki] <br/>
 Sensitive-Eyes [https://github.com/parkjunoo/Sensitive-Eyes]

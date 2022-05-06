@@ -7,9 +7,12 @@
 ### FrontEnd ( vue, react )
 ### Blockchain
 ### native ( android )
+#
 
-## career
-### petfriends | 2021-02-01 ~ 2022-04-22
+# career
+### petfriends 
+2021-02-01 ~ 2022-04-22
+#
 
 # Projects.
 ### - Web <br/>
@@ -20,3 +23,4 @@ Bbokkibbokki [https://github.com/parkjunoo/bbokkibbokki] <br/>
 Sensitive-Eyes [https://github.com/parkjunoo/Sensitive-Eyes]
 ### - AI
 Airmusician [https://github.com/ansgml9884/air-musician]
+#

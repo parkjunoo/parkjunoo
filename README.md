@@ -6,7 +6,6 @@
 # Areas of interest.
 ### FrontEnd ( vue, react )
 ### Blockchain
-### native ( android )
 #
 
 # career

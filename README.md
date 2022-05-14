@@ -6,11 +6,7 @@
 # Areas of interest.
 ### FrontEnd ( vue, react )
 ### Blockchain
-#
 
-# career
-### petfriends 
-2021-02-01 ~ 2022-04-22
 #
 
 # toy Projects.

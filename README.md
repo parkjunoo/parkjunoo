@@ -13,7 +13,7 @@
 ### - Web <br/>
 [Da-da-ik-sun](https://github.com/parkjunoo/the-more-the-better)<br/>
 [vanilla-typescript-sticky-todolist](https://github.com/parkjunoo/vanilla-typescript-postit)
-### - blockchain
+### - Blockchain
 [bsc-wallet-explorer](https://github.com/parkjunoo/BSC-wallet-explorer)
 ### - Android <br/>
 [Bbokkibbokki](https://github.com/parkjunoo/bbokkibbokki)<br/>
